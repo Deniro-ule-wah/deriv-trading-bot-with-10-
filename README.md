@@ -1,0 +1,1 @@
+# deriv-trading-bot-with-10-
